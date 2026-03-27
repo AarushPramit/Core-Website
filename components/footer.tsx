@@ -94,3 +94,7 @@ export default function Footer() {
       <div className="border-t py-6 text-center text-sm text-gray-500">
         © {new Date().getFullYear()} CORE. All rights reserved.
       </div>
+
+    </footer>
+  )
+}
